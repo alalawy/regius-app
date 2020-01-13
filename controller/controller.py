@@ -1,6 +1,6 @@
 
 from controller import regius
-from regiuss import *
+from regius import *
 from database.models import *
 
 class Index:

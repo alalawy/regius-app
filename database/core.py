@@ -1,4 +1,4 @@
-from regiuss import *
+from regius import *
 from database.config import *
 
 class Db:
