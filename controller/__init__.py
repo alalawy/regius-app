@@ -1,3 +1,3 @@
-from regius import Regius
+from regiuss import Regius
 
 regius = Regius()

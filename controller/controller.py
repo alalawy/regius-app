@@ -1,5 +1,7 @@
 
 from controller import regius
+from regiuss import *
+from database.models import *
 
 class Index:
     def get(self, req, resp):

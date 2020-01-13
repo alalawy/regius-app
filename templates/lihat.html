@@ -1,0 +1,12 @@
+<table>
+    <thead>
+        <th>nama</th>
+        <th>alamat</th>
+    </thead>
+    {% for datanama in datanama %}
+        <tr>
+            <td>{{ datanama.nama }}</td>
+            <td>{{ datanama.alamat }}</td>
+        </tr>
+    {% endfor %}
+</table>
